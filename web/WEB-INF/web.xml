@@ -14,5 +14,5 @@
   <servlet-mapping>
     <servlet-name>jersey</servlet-name>
     <url-pattern>/api/*</url-pattern>
-  </servlet-mapping>
+  </servlet-mapping>ssssss
 </web-app>
